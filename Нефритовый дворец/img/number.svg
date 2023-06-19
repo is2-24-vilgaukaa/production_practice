@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="217.71973mm"
+   height="36.441681mm"
+   viewBox="0 0 217.71973 36.441681"
+   version="1.1"
+   id="svg31428"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="number.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31430"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0255231"
+     inkscape:cx="487.06851"
+     inkscape:cy="221.83801"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs31425" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.157398,-83.638905)">
+    <ellipse
+       style="fill:#51a686;fill-opacity:1;stroke-width:0.329168"
+       id="path32340"
+       cx="38.733284"
+       cy="101.56979"
+       rx="18.575886"
+       ry="17.930889" />
+    <ellipse
+       style="fill:#72cbaa;fill-opacity:1;stroke-width:0.329168"
+       id="path32340-2"
+       cx="84.083221"
+       cy="102.06846"
+       rx="18.575886"
+       ry="17.930889" />
+    <ellipse
+       style="fill:#84efc8;fill-opacity:1;stroke-width:0.329168"
+       id="path32340-7"
+       cx="129.04128"
+       cy="101.90487"
+       rx="18.575886"
+       ry="17.930889" />
+    <ellipse
+       style="fill:#72cbaa;fill-opacity:1;stroke-width:0.329168"
+       id="path32340-2-9"
+       cx="173.33289"
+       cy="101.87436"
+       rx="18.575886"
+       ry="17.930889" />
+    <ellipse
+       style="fill:#51a686;fill-opacity:1;stroke-width:0.329168"
+       id="path32340-8"
+       cx="219.30124"
+       cy="102.1497"
+       rx="18.575886"
+       ry="17.930889" />
+    <text
+       xml:space="preserve"
+       style="font-size:30.5337px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#ffffff;fill-opacity:1;stroke-width:2.54448"
+       x="70.142151"
+       y="120.54527"
+       id="text2691"
+       transform="scale(1.0730991,0.93188039)"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.54448"
+         x="70.142151"
+         y="120.54527"
+         sodipodi:role="line"
+         id="tspan23182">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.51802px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#ffffff;fill-opacity:1;stroke-width:0.793166"
+       x="22.949718"
+       y="103.13308"
+       id="text2691-1"
+       transform="scale(0.99116387,1.0089149)"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.793166"
+         x="22.949718"
+         y="103.13308"
+         sodipodi:role="line"
+         id="tspan23182-1">Студия</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.5337px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#ffffff;fill-opacity:1;stroke-width:2.54448"
+       x="111.68477"
+       y="119.46002"
+       id="text2691-0"
+       transform="scale(1.0730991,0.93188039)"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.54448"
+         x="111.68477"
+         y="119.46002"
+         sodipodi:role="line"
+         id="tspan23182-7">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.5337px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#ffffff;fill-opacity:1;stroke-width:2.54448"
+       x="152.97844"
+       y="119.12907"
+       id="text2691-0-4"
+       transform="scale(1.0730991,0.93188039)"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.54448"
+         x="152.97844"
+         y="119.12907"
+         sodipodi:role="line"
+         id="tspan23182-7-5">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.1633px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';fill:#ffffff;fill-opacity:1;stroke-width:2.18028"
+       x="198.91705"
+       y="114.21407"
+       id="text2691-0-5"
+       transform="scale(1.0310328,0.96990125)"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.18028"
+         x="198.91705"
+         y="114.21407"
+         sodipodi:role="line"
+         id="tspan23182-7-9">3+</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<html>
+<head>
+<meta charset="utf-8">       
+<link rel="icon" href="../img/logo.png"> 
+<title>Нефритовый дворец</title>
+<!--Подключение стилей-->
+<link rel ="stylesheet" href="../style/mainstyle.css">
+<link rel ="stylesheet" href="../style/styleslider.css">
+<link rel ="stylesheet" href="../style/mediastyle.css">
+<!--Подключение шрифта-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+</head>
+    
+<body>
+<!--Шапка-->   
+<header>
+<div class="header">
+<a href="../index.html" class="logo"><img src="../img/logo.svg" alt="нефритовый дворец"></a>
+<div class="header-right">
+<a href="authorization.php">Войти</a>
+<a href="aboutUs.html">О нас</a>
+<a href="apartments.html">Квартиры</a>
+<a href="ipoteka.html">Ипотека</a>
+</div>
+</div>
+
+<!--Каталог -->
+<h1>Каталог квартир</h1>
+<div class="benefit"><br>
+<p>На сайте представлены квартиры <br> со следующим количеством комнат:</p>
+<img src="../img/number.svg"><br><br><br>
+</div><br><hr><br>
+
+<!--Квартиры-->
+<div class="appart">
+<script>
+let API = document.querySelector('.appart'); 
+
+fetch('data.json')  
+.then(response => response.json()) 
+.then(api => {
+
+for (let i = 0; i < 9; i++) {
+let item = document.createElement('span'); 
+item.innerHTML += 
+'<a class="lake" href="purchase.html" id="'+ api[i].id +'" alt="'+ api[i].named + ' | '
++ api[i].price + '"><img src="' +
+api[i].img + '" /></span>';
+
+API.appendChild(item)}});
+</script></div><hr>
+
+<!--Плюсы-->
+<h1>При покупке недвижимости вы получаете</h1>
+<div class="center">
+<img class="animate-pulse" src="../img/plus.svg">    
+<img class="animate-pulse" src="../img/plus2.svg">    
+<img class="animate-pulse" src="../img/plus3.svg">  
+<img class="animate-pulse" src="../img/plus4.svg">  
+</div><br><br>
+
+<!--Подвал-->
+<div class="footer"><br>
+<table class="footerTable">
+<tr><td>
+<p>Номер телефона: +7 (900) 088-79-85</p>
+<p>Почта: nefritovi_dvorec@gmail.com</p>
+<img src="../img/tg.svg">
+<img src="../img/tw.svg">
+<img src="../img/vk.svg"></td> 
+<td><h2>Нефритовый дворец<h2>
+<a href="../index.html"><img src="../img/logo.svg"></a>  
+</td><td>
+<p>О нас</p>
+<p>Квартиры</p>
+<p>Ипотека</p>
+</td></tr></table></div>
+</body>
+</html>
